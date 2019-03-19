@@ -2,7 +2,7 @@ package biblioteca;
 
 public class Revista extends Ejemplar {
 
-	private int numero = 12;/* Cambiar numero segun numeor revista a mostrar */
+	private int numero = 12;
 
 	public Revista(String codigo, String titulo, int año) {
 		super(codigo, titulo, año);
